@@ -1,1 +1,1 @@
-Due to the limitations on file size, we have compressed all the Data folders and shared them on XXX.com. Please unzip the corresponding compressed folder and replace the current empty Data folder with it when using.
+Due to the limitations on file size, we have compressed all the Data folders and shared them on (https://drive.google.com/file/d/1iN2SculPeAjInIpkisDL-LQT0rGsdIQg/view?usp=drive_link). Please unzip the corresponding compressed folder and replace the current empty Data folder with it when using.
